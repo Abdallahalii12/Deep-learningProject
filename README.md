@@ -1,5 +1,3 @@
-# Deep-learningProject
-
 # Image Fault Detection Using CNN
 
 ## Overview
